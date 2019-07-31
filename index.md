@@ -4,7 +4,7 @@ Voici quelques documents et partitions à télécharger à télécharger. On est
 
 # Messe bleue
 
-* [Messe bleue](https://github.com/mimo38/PDF/raw/master/MesseBleueLy.pdf)
+* [Messe bleue](MesseBleue\MesseBleuely.pdf)
 
 # C'est le Périgord
 * [C'est le Périgord](C'est le Périgord.pdf)
