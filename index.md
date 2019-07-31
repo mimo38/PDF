@@ -15,6 +15,7 @@ dite *Messe bleue*
 
 ### Popule meus
 
-### Notre Dame du Périgord
-* [Notre-Dame du Périgord](NotreDameDuPerigord-entier.pdf)
-* [C'est le Périgord](C'est le Périgord.pdf)
+## Le Périgord
+* [Notre-Dame du Périgord](Périgord/NotreDameDuPerigord-entier.pdf)
+* [C'est le Périgord](Périgord/C'est le Périgord.pdf)
+* Saint Front [Propre de saint Front avec grégorien](Périgord/PropreStFront.pdf) | [Propre de saint Front sans grégorien](Périgord/PropreStFrontFideles.pdf)
