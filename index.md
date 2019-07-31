@@ -6,7 +6,7 @@ Voici quelques documents et partitions à télécharger à télécharger. On est
 
 * [Messe bleue](MesseBleue/MesseBleueLy.pdf)
 
-**Sopranes
+** Sopranes
   * [Kyrie](MessBleue/Kyrie-soprano.midi)
 
 # C'est le Périgord
