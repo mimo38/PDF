@@ -5,7 +5,7 @@ Voici quelques documents et partitions à télécharger à télécharger. On est
 ## Chanoine Robin
 
 ### Messe des Anges
-dite *;Messe bleue;*
+dite *Messe bleue*
 * [Partition](MesseBleue/MesseBleueLy.pdf)
 
 * Sopranes | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-soprano.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-soprano.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-soprano.midi?raw=true) |
