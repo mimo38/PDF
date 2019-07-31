@@ -2,10 +2,7 @@
 
 Voici quelques documents et partitions à télécharger à télécharger. On est prié de signaler les erreurs qui s'y seraient glissées.
 
-
-| Des partitions sont aussi disponibles ici :   | [![Dossier Mega](megaup.png)](https://mega.nz/#F!GOpFmQAJ!OLWygAU80MQXh6OsLLdMvQ) |   |
-|:-:|:-------:|:-:|
-
+ Des partitions sont aussi disponibles ici : [![Dossier Mega](megaup.png)](https://mega.nz/#F!GOpFmQAJ!OLWygAU80MQXh6OsLLdMvQ) 
 
 ## Chanoine Robin
 
