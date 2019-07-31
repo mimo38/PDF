@@ -6,7 +6,12 @@ Voici quelques documents et partitions à télécharger à télécharger. On est
 
 * [Messe bleue](MesseBleue/MesseBleueLy.pdf)
 
-* Sopranes | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](https://github.com/mimo38/documents-pdf/blob/master/MesseBleue/Gloria-soprano.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-soprano.midi) | [Agnus Dei](MesseBleue/Agnus-soprano.midi) |
+* Sopranes | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-soprano.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-soprano.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-soprano.midi?raw=true) |
+
+* Ténor | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-tenor.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-tenor.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-tenor.midi?raw=true) |
+
+
+
 
 
 # C'est le Périgord
