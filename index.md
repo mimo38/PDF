@@ -15,7 +15,7 @@ dite *Messe bleue*
 
 ### Popule meus
 * [Partition](PopuleMeus/PopuleMeus.pdf)
-* Fichiers midi de répétitions : | [Soprano](PopuleMeus/PopuleMeus-soprano.midi) | [Alto](PopuleMeus/PopuleMeus-alto.midi) | [Ténor](PopuleMeus/PopuleMeus-tenor.midi) | [Basse](PopuleMeus/PopuleMeus-bass.midi) | [Ensmble](PopuleMeus/PopuleMeus.midi)
+* Fichiers midi de répétitions : | [Soprano](PopuleMeus/PopuleMeus-soprano.midi) | [Alto](PopuleMeus/PopuleMeus-alto.midi) | [Ténor](PopuleMeus/PopuleMeus-tenor.midi) | [Basse](PopuleMeus/PopuleMeus-bass.midi) | [Ensemble](PopuleMeus/PopuleMeus.midi)
 
 ## Le Périgord
 * [Notre-Dame du Périgord](Périgord/NotreDameDuPerigord-entier.pdf)
