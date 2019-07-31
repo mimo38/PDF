@@ -14,6 +14,8 @@ dite *Messe bleue*
   * Basses | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-bass.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-bass.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-bass.midi?raw=true) |
 
 ### Popule meus
+* [Partition](PopuleMeus/PopuleMeus.pdf)
+* Fichiers midi de répétitions : [Soprano](PopuleMeus/PopuleMeus-soprano.midi) | [Alto](PopuleMeus/PopuleMeus-alto.midi) | [Ténor](PopuleMeus/PopuleMeus-tenor.midi) | [Basse](PopuleMeus/PopuleMeus-bass.midi) | [Ensmble](PopuleMeus/PopuleMeus.midi)
 
 ## Le Périgord
 * [Notre-Dame du Périgord](Périgord/NotreDameDuPerigord-entier.pdf)
