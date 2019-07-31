@@ -1,8 +1,8 @@
-## Documents et partitions
+# Documents et partitions
 
 Voici quelques documents et partitions à télécharger à télécharger. On est prié de signaler les erreurs qui s'y seraient glissées.
 
-# Messe bleue
+## Messe bleue
 
 * [Messe bleue](MesseBleue/MesseBleueLy.pdf)
 
@@ -11,5 +11,5 @@ Voici quelques documents et partitions à télécharger à télécharger. On est
 * Ténor | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-tenor.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-tenor.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-tenor.midi?raw=true) |
 * Basses | [Kyrie](MesseBleue/Kyrie.midi?raw=true) | [Gloria](MesseBleue/Gloria-bass.midi?raw=true) | [Sanctus](MesseBleue/Sanctus-bass.midi?raw=true) | [Agnus Dei](MesseBleue/Agnus-bass.midi?raw=true) |
 
-# C'est le Périgord
+## C'est le Périgord
 * [C'est le Périgord](C'est le Périgord.pdf)
